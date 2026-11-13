@@ -19,7 +19,7 @@ readme = "README.md"
 description = "Host-function registry with typed signatures, value marshalling, and a capability-based permission gate."
 
 # Keywords (5 max)
-keywords = ["ffi", "sandbox", "permissions", "runtime", "lexersketch"]
+keywords = ["ffi", "sandbox", "permissions", "runtime"]
 
 # Categories
 categories = ["development-tools", "no-std"]
